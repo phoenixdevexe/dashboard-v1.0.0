@@ -6,9 +6,9 @@
             "price": 0,
             "resources": {
                 "cpu": 100,
-                "ram": 1024,
-                "disk": 10240,
-                "server": 2
+                "ram": 2048,
+                "disk": 5120,
+                "server": 1
             }
         },
         "PREMIUM": {
